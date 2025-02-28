@@ -1,8 +1,24 @@
-#tulisan {
-    color: rgb(73, 129, 241);
+.tulisan_satu {
+    color: rgb(112, 174, 219);
+    text-decoration: underline;
 }
 
-.box {
-    background: rgb(217, 231, 246);
-    padding: 10px;
+.tulisan_dua {
+    text-align: right;
+    text-transform: capitalize;
+    text-decoration: overline;
+}
+
+.tulisan_tiga {
+    text-align: center;
+    text-transform: lowercase;
+    text-decoration: line-through;
+    word-spacing: 10px;
+}
+
+.tulisan_empat {
+    text-transform: uppercase;
+    text-indent: 30px;
+    line-height: 30px;
+    letter-spacing: 5px;
 }
