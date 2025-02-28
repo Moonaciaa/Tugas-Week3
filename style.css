@@ -1,8 +1,17 @@
-#tulisan {
-    color: rgb(73, 129, 241);
+.tulisan_satu {
+    color: rgba(0, 162, 255, 0.945);
+    font-family: sans-serif;
+    font-style: normal;
 }
 
-.box {
-    background: rgb(217, 231, 246);
-    padding: 10px;
+.tulisan_dua {
+    color: rgb(117, 202, 169);
+    font-size: 24pt;
+    font-style: italic;
+}
+
+.tulisan_tiga {
+    color: rgb(234, 130, 130);
+    font-weight: bold;
+    font-style: oblique;
 }
